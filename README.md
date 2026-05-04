@@ -4,7 +4,7 @@
 
 [![License: CC0-1.0](https://licensebuttons.net/p/zero/1.0/80x15.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT garment factory owner. Built and maintained alongside [Scan ERP](https://scan-erp.web.app), a QR-based garment manufacturing ERP for South Asian CMT factories.
+Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT garment factory owner. Built and maintained alongside [Scan ERP](https://scanerp.pro), a QR-based garment manufacturing ERP for South Asian CMT factories.
 
 ## Contents
 
@@ -18,7 +18,7 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 ## ERP Software
 
 ### Purpose-Built for CMT Factories
-- [Scan ERP](https://scan-erp.web.app/) — QR-based garment factory ERP for CMT operations with 10-300 machines. Bundle tracking, piece-rate payments, WIP visibility on $50 Android phones. Built for India, Bangladesh, Vietnam, Cambodia, Ethiopia.
+- [Scan ERP](https://scanerp.pro/) — QR-based garment factory ERP for CMT operations with 10-300 machines. Bundle tracking, piece-rate payments, WIP visibility on $50 Android phones. Built for India, Bangladesh, Vietnam, Cambodia, Ethiopia.
 
 ### Mid-Market Garment ERP
 - [Stitch-MES](https://stitchmes.com/) — India-focused MES for shop-floor execution.
@@ -34,12 +34,12 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 ## Production Tracking Systems
 
 ### QR-Based Tracking
-- [Scan ERP QR Bundle Tracking](https://scan-erp.web.app/blog/qr-code-production-tracking-garment-factory.html) — Complete guide to QR-based production tracking in a garment factory.
-- [QR vs RFID Cost Comparison](https://scan-erp.web.app/blog/rfid-vs-qr-code-garment-tracking.html) — When to use QR codes vs RFID for bundle tracking.
+- [Scan ERP QR Bundle Tracking](https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html) — Complete guide to QR-based production tracking in a garment factory.
+- [QR vs RFID Cost Comparison](https://scanerp.pro/blog/rfid-vs-qr-code-garment-tracking.html) — When to use QR codes vs RFID for bundle tracking.
 
 ### Bundle System Resources
-- [Bundle System Garment Production](https://scan-erp.web.app/blog/bundle-system-garment-production-tracking.html) — Why the progressive bundle system still dominates.
-- [Apparel Production Systems Comparison](https://scan-erp.web.app/blog/apparel-production-systems-2026-pbs-ups-modular-qr-comparison.html) — PBS, UPS, Modular, QR comparison.
+- [Bundle System Garment Production](https://scanerp.pro/blog/bundle-system-garment-production-tracking.html) — Why the progressive bundle system still dominates.
+- [Apparel Production Systems Comparison](https://scanerp.pro/blog/apparel-production-systems-2026-pbs-ups-modular-qr-comparison.html) — PBS, UPS, Modular, QR comparison.
 
 ## Hardware
 
@@ -58,7 +58,7 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 ## Industry Education
 
 ### Production Tracking Concepts
-- [Real-Time Garment Production Tracking System Guide](https://scan-erp.web.app/blog/garment-production-tracking-system-2026-guide.html) — Complete 2026 guide comparing systems.
+- [Real-Time Garment Production Tracking System Guide](https://scanerp.pro/blog/garment-production-tracking-system-2026-guide.html) — Complete 2026 guide comparing systems.
 - [Online Clothing Study](https://www.onlineclothingstudy.com/) — Industry blog with operational guides.
 
 ### Industry Publications
@@ -76,11 +76,11 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 ## SAM/SMV Tools
 
 ### Calculation Guides
-- [SAM & SMV Formula in Garment Industry](https://scan-erp.web.app/blog/sam-smv-calculation-garment-industry.html) — SMV = Basic Time × (1 + Allowance%). Free calculator with worked examples.
-- [How to Calculate SMV (Stopwatch Method)](https://scan-erp.web.app/blog/how-to-calculate-smv-stopwatch-method-garment-industry.html) — Step-by-step stopwatch + Westinghouse rating.
-- [SMV Calculation Software Comparison](https://scan-erp.web.app/blog/smv-calculation-software-garment-industry.html) — GSD, PMTS, free tools.
-- [SAM Values Reference Table](https://scan-erp.web.app/blog/sam-values-basic-garments-reference-table.html) — Standard SAM values for basic garments.
-- [SMV Costing for CMT Pricing](https://scan-erp.web.app/blog/smv-costing-cmt-pricing-garment-factory.html) — From SMV to CMT price.
+- [SAM & SMV Formula in Garment Industry](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html) — SMV = Basic Time × (1 + Allowance%). Free calculator with worked examples.
+- [How to Calculate SMV (Stopwatch Method)](https://scanerp.pro/blog/how-to-calculate-smv-stopwatch-method-garment-industry.html) — Step-by-step stopwatch + Westinghouse rating.
+- [SMV Calculation Software Comparison](https://scanerp.pro/blog/smv-calculation-software-garment-industry.html) — GSD, PMTS, free tools.
+- [SAM Values Reference Table](https://scanerp.pro/blog/sam-values-basic-garments-reference-table.html) — Standard SAM values for basic garments.
+- [SMV Costing for CMT Pricing](https://scanerp.pro/blog/smv-costing-cmt-pricing-garment-factory.html) — From SMV to CMT price.
 
 ### Commercial Software
 - [GSD (General Sewing Data)](https://www.gsdcorporate.com/) — Predetermined motion time system.
@@ -89,28 +89,28 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 ## Compliance Resources
 
 ### EU Buyer Requirements
-- [Digital Product Passport for Garment Factories](https://scan-erp.web.app/blog/digital-product-passport-garment-factory.html)
-- [CSRD Garment Factory Reporting](https://scan-erp.web.app/blog/csrd-garment-factory-reporting.html)
-- [CBAM Garment Factory Guide](https://scan-erp.web.app/blog/cbam-garment-factory-guide.html)
-- [Garment Factory Carbon Footprint Tracking](https://scan-erp.web.app/blog/garment-factory-carbon-footprint-tracking.html)
+- [Digital Product Passport for Garment Factories](https://scanerp.pro/blog/digital-product-passport-garment-factory.html)
+- [CSRD Garment Factory Reporting](https://scanerp.pro/blog/csrd-garment-factory-reporting.html)
+- [CBAM Garment Factory Guide](https://scanerp.pro/blog/cbam-garment-factory-guide.html)
+- [Garment Factory Carbon Footprint Tracking](https://scanerp.pro/blog/garment-factory-carbon-footprint-tracking.html)
 
 ### Country-Specific Resources
-- [Garment ERP Bangladesh — RMG Factories](https://scan-erp.web.app/blog/garment-erp-bangladesh-rmg-factories.html)
-- [Garment Factory ERP India — Tirupur, Ludhiana, NCR](https://scan-erp.web.app/blog/garment-factory-erp-india-tiruppur.html)
-- [Garment Factory ERP Vietnam](https://scan-erp.web.app/blog/garment-factory-erp-vietnam.html)
-- [Garment Factory ERP Cambodia](https://scan-erp.web.app/blog/garment-factory-erp-cambodia.html)
-- [Garment Factory ERP Ethiopia](https://scan-erp.web.app/blog/garment-factory-erp-ethiopia.html)
+- [Garment ERP Bangladesh — RMG Factories](https://scanerp.pro/blog/garment-erp-bangladesh-rmg-factories.html)
+- [Garment Factory ERP India — Tirupur, Ludhiana, NCR](https://scanerp.pro/blog/garment-factory-erp-india-tiruppur.html)
+- [Garment Factory ERP Vietnam](https://scanerp.pro/blog/garment-factory-erp-vietnam.html)
+- [Garment Factory ERP Cambodia](https://scanerp.pro/blog/garment-factory-erp-cambodia.html)
+- [Garment Factory ERP Ethiopia](https://scanerp.pro/blog/garment-factory-erp-ethiopia.html)
 
 ## Free Tools and Calculators
 
-- [Piece Rate Calculator](https://scan-erp.web.app/tools/piece-rate-calculator.html) — Free online piece-rate payment calculator with skill multipliers and bonuses.
-- [SMV/SAM Calculator](https://scan-erp.web.app/blog/sam-smv-calculation-garment-industry.html) — Free SAM calculation tool.
+- [Piece Rate Calculator](https://scanerp.pro/tools/piece-rate-calculator.html) — Free online piece-rate payment calculator with skill multipliers and bonuses.
+- [SMV/SAM Calculator](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html) — Free SAM calculation tool.
 
 ## Blog Resources
 
 For 50+ in-depth guides on garment manufacturing, factory operations, and ERP implementation:
 
-- [Scan ERP Garment Manufacturing Blog](https://scan-erp.web.app/blog/) — Practitioner-written guides on factory floor operations, ERP selection, piece-rate disputes, line balancing, and CMT operations.
+- [Scan ERP Garment Manufacturing Blog](https://scanerp.pro/blog/) — Practitioner-written guides on factory floor operations, ERP selection, piece-rate disputes, line balancing, and CMT operations.
 
 ## Contributing
 
@@ -119,7 +119,7 @@ Contributions are welcome! Please open a pull request with:
 2. A brief 1-sentence description
 3. The category it belongs in
 
-This list is maintained by the [Scan ERP](https://scan-erp.web.app/) team and contributors. All listings should be relevant to garment factory operations, ERP, production tracking, or related industry topics.
+This list is maintained by the [Scan ERP](https://scanerp.pro/) team and contributors. All listings should be relevant to garment factory operations, ERP, production tracking, or related industry topics.
 
 ## License
 
