@@ -103,8 +103,32 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 
 ## Free Tools and Calculators
 
+- [Garment Industry Calculator Toolkit](https://scanerp.pro/tools/) — Free online AQL, DHU, line efficiency, fabric consumption, CMT cost, SMV, and piece-rate calculators.
 - [Piece Rate Calculator](https://scanerp.pro/tools/piece-rate-calculator.html) — Free online piece-rate payment calculator with skill multipliers and bonuses.
-- [SMV/SAM Calculator](https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html) — Free SAM calculation tool.
+
+## Open-Source npm and PyPI Packages
+
+Production-tested garment industry calculators, MIT licensed.
+
+### npm (Node.js / TypeScript)
+- [garment-aql-calculator](https://www.npmjs.com/package/garment-aql-calculator) — ISO 2859-1 AQL sampling, QIMA verified.
+- [garment-dhu-calculator](https://www.npmjs.com/package/garment-dhu-calculator) — DHU with defect-type breakdown and multi-checker aggregation.
+- [garment-line-efficiency](https://www.npmjs.com/package/garment-line-efficiency) — Line efficiency, target output, line balance / bottleneck.
+- [garment-fabric-consumption](https://www.npmjs.com/package/garment-fabric-consumption) — Knit GSM × area and woven marker-length methods.
+- [garment-cmt-cost](https://www.npmjs.com/package/garment-cmt-cost) — CMT cost with 13-country CPM comparison.
+- [garment-smv-calculator](https://www.npmjs.com/package/garment-smv-calculator) — Stopwatch SMV / SAM with performance rating + allowance.
+- [garment-piece-rate](https://www.npmjs.com/package/garment-piece-rate) — Piece-rate earnings with bonuses and overtime.
+- [garment-bundle-id](https://www.npmjs.com/package/garment-bundle-id) — Bundle QR codes (STYLE-LOT-COLOR-SIZE-BUNDLE# format).
+
+### PyPI (Python)
+- [garment-aql-calculator](https://pypi.org/project/garment-aql-calculator/)
+- [garment-dhu-calculator](https://pypi.org/project/garment-dhu-calculator/)
+- [garment-line-efficiency](https://pypi.org/project/garment-line-efficiency/)
+- [garment-fabric-consumption](https://pypi.org/project/garment-fabric-consumption/)
+- [garment-cmt-cost](https://pypi.org/project/garment-cmt-cost/)
+- [garment-smv-calculator](https://pypi.org/project/garment-smv-calculator/)
+- [garment-piece-rate](https://pypi.org/project/garment-piece-rate/)
+- [garment-bundle-id](https://pypi.org/project/garment-bundle-id/)
 
 ## Blog Resources
 
