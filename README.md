@@ -111,6 +111,7 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 Production-tested garment industry calculators, MIT licensed.
 
 ### npm (Node.js / TypeScript)
+- [aql-sample-size](https://www.npmjs.com/package/aql-sample-size) — Zero-dependency ISO 2859-1 sample-size lookup library. 90 sampling plans (15 code letters × 6 AQL values). MIT licensed. ([GitHub](https://github.com/drmcoder/aql-sample-size))
 - [garment-aql-calculator](https://www.npmjs.com/package/garment-aql-calculator) — ISO 2859-1 AQL sampling, QIMA verified.
 - [garment-dhu-calculator](https://www.npmjs.com/package/garment-dhu-calculator) — DHU with defect-type breakdown and multi-checker aggregation.
 - [garment-line-efficiency](https://www.npmjs.com/package/garment-line-efficiency) — Line efficiency, target output, line balance / bottleneck.
