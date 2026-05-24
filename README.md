@@ -1,4 +1,4 @@
-# Awesome Garment Factory ERP
+# Awesome Garment Factory ERP [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources, software, hardware, and tools for garment factory ERP, production tracking, and apparel manufacturing operations.
 
