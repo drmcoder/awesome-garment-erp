@@ -105,6 +105,9 @@ Curated by [Santosh Rijal](https://github.com/drmcoder) — MBBS doctor and CMT 
 
 - [Garment Industry Calculator Toolkit](https://scanerp.pro/tools/) — Free online AQL, DHU, line efficiency, fabric consumption, CMT cost, SMV, and piece-rate calculators.
 - [Piece Rate Calculator](https://scanerp.pro/tools/piece-rate-calculator.html) — Free online piece-rate payment calculator with skill multipliers and bonuses.
+- [GSM to oz/yd² Converter](https://www.hlnapparel.com/tools/gsm-to-oz) — Free fabric weight converter between GSM and oz/yd².
+- [Free Tech Pack Template](https://www.hlnapparel.com/tools/tech-pack-template) — Free clothing tech pack template (Excel + PDF), also on [GitHub](https://github.com/apoi15/tech-pack-template) under CC BY 4.0.
+- [Asian to US Size Converter](https://www.hlnapparel.com/tools/size-chart) — Converts Chinese garment sizes (e.g. 170/92A) to US, EU, UK and Japan sizes.
 
 ## Open-Source npm and PyPI Packages
 
